@@ -116,48 +116,9 @@ These visualisations provide both **quantitative and qualitative evidence** of o
 
 ### Requirements
 
-- Python 3.8 or higher
+- Python 3.8+
 - NumPy
 - Matplotlib
-
-Install dependencies (if required):
-
-```bash
-pip install numpy matplotlib
-Running the Project
-
-Launch Jupyter Notebook:
-
-jupyter notebook
-
-
-Open the notebook file:
-
-Autonomous_Gridworld_Navigation_via_Reinforcement_Learning.ipynb
-
-
-Run all cells from top to bottom to reproduce results and visualisations.
-
-Project Structure
-├── README.md
-├── Autonomous_Gridworld_Navigation_via_Reinforcement_Learning.ipynb
-└── assets/
-    └── architecture_diagram.png
-
-Ethical, Accessibility, and Sustainability Considerations
-
-The environment is synthetic and does not involve human data
-
-Real-world deployment would require careful consideration of:
-
-Fairness
-
-Accessibility
-
-Safety
-
-While training is computationally expensive, learned policies allow extremely fast execution, reducing long-term computational and energy costs
-
 
 Author
 
@@ -169,3 +130,4 @@ License
 
 This project is provided for educational and portfolio purposes.
 Please cite appropriately if reused or extended.
+
