@@ -120,6 +120,25 @@ These visualisations provide both **quantitative and qualitative evidence** of o
 - NumPy
 - Matplotlib
 
+## How to Run
+
+Install dependencies:
+
+```bash
+pip install numpy matplotlib
+```
+Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+Open the Notebook File
+```bash
+Autonomous_Gridworld_Navigation_via_Reinforcement_Learning.ipynb
+```
+Execute the Notebook
+
+Run all cells from top to bottom to reproduce results and visualisations.
+
 Author
 
 Wimukthi Deshan Dassanayake
